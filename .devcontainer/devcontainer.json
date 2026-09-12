@@ -20,7 +20,7 @@
 			"userGid": "1000"
 		},
 		"ghcr.io/devcontainers/features/node:1": {
-			"version": "22.11.0"
+			"version": "22.23.2"
 		},
 		"ghcr.io/devcontainers-extra/features/lefthook-asdf:1": {
 			"version": "latest"
